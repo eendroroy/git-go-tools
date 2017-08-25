@@ -3,13 +3,13 @@
 
 [[projects]]
   branch = "v25"
-  name = "gopkg.in/libgit2/git2go.v25"
+  name = "github.com/libgit2/git2go"
   packages = ["."]
   revision = "334260d743d713a55ff3c097ec6707f2bb39e9d5"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "4952009001086df3d99b1f6e251db6bad5e120f1a1a477205e9a7f5c46d09560"
+  inputs-digest = "fbefc155c07ad3e55ce1df31d91466b5b155e38aa5abf33068656424b06acf4e"
   solver-name = "gps-cdcl"
   solver-version = 1

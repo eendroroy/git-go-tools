@@ -23,4 +23,4 @@
 
 [[constraint]]
   branch = "v25"
-  name = "gopkg.in/libgit2/git2go.v25"
+  name = "github.com/libgit2/git2go"
